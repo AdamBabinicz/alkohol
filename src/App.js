@@ -9,7 +9,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Privacy from "./components/Privacy";
 import CookieConsent from "react-cookie-consent";
-// import { Link } from "react-router-dom";
+import Thank from "./components/Thank";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
       <Router>
         <Switch>
           <Route path="/privacy" component={Privacy} />
+          <Route path="/dziekuje-za-wiadomosc" component={Thank} />
         </Switch>
       </Router>
       <Home />
