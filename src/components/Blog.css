@@ -35,6 +35,6 @@ button.blog.project__btn {
 }
 @media only screen and (max-width: 768px) {
   .project__img__box img {
-    max-width: 400px;
+    width: 100%;
   }
 }
