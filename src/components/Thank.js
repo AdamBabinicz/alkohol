@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 // import { Button } from "../button/index";
-import BackgroundImg from "./assets/1.jpg";
+// import BackgroundImg from "./assets/1.jpg";
 import img from "../img/1.png";
 
 const Container = styled.div`
