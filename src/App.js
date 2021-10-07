@@ -53,7 +53,7 @@ function App() {
         <a
           href="/privacy"
           // target="_blank"
-          // rel="noopener noreferrer"
+          rel="noopener noreferrer"
           style={{
             color: "rgb(204, 204, 204)",
             textDecoration: "none",
