@@ -17,7 +17,7 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route path="/privacy" component={Privacy} />
+          <Route path="/polityka-prywatnosci" component={Privacy} />
           <Route path="/dziekujemy-za-wiadomosc" component={Thank} />
         </Switch>
 
@@ -52,7 +52,7 @@ function App() {
           urządzeniu końcowym. Możecie Państwo dokonać w każdym czasie zmiany
           ustawień dotyczących cookies. Więcej  szczegółów w naszej
           <Link
-            to="/privacy"
+            to="/polityka-prywatnosci"
             // target="_blank"
             rel="noopener noreferrer"
             style={{
