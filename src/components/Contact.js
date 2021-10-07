@@ -12,7 +12,7 @@ function Contact() {
               <h2 className="hire__text">Napisz</h2>
               <p className="hire_text white">Twoja historia</p>
               <p className="hire_text white">
-                <strong>☎</strong> or email <strong>email@example.com</strong>
+                <strong>☎</strong> albo email <strong>email@example.com</strong>
               </p>
             </div>
             <div className="input__box">
