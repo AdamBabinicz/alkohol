@@ -7,6 +7,17 @@ const Container = styled.div`
   position: relative;
   color: #ccc;
   padding: 50px 150px;
+  h2 {
+    margin: 3rem 0;
+    font-size: 30px;
+  }
+  h3 {
+    margin: 2rem 0;
+  }
+  p {
+    margin: 1rem 0;
+    line-height: 2rem;
+  }
   .arrow {
     position: sticky;
     top: 0;
