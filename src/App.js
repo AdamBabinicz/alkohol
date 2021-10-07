@@ -17,7 +17,7 @@ function App() {
       <Router>
         <Switch>
           <Route path="/privacy" component={Privacy} />
-          <Route path="/dziekuje-za-wiadomosc" component={Thank} />
+          <Route path="/dziekujemy-za-wiadomosc" component={Thank} />
         </Switch>
       </Router>
       <Home />
