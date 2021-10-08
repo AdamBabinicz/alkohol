@@ -183,7 +183,7 @@ function Project() {
               </div>
               <div className="project__meta absolute">
                 <h4 className="project__text">
-                  Zerwanie więzi rodzinnych i przyjacielskich
+                  Zerwanie więzi rodzinnych i&nbsp;przyjacielskich
                 </h4>
                 <h5 className="project__text__p">‼</h5>
                 <button

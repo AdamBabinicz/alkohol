@@ -30,7 +30,7 @@ const Container = styled.div`
 const Thank = () => {
   return (
     <Container>
-      <h1>Dziękujemy za wiadomość!</h1>
+      <h1>Dziękujemy za&nbsp;wiadomość!</h1>
       <img src={img} alt="..." />
       <Link to="/">
         <button>Powrót</button>

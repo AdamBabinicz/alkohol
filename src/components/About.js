@@ -36,29 +36,30 @@ function About() {
               <p className="about__text p__color">
                 "Nie ma dla mnie pór roku, zjawisk atmosferycznych, upałów czy
                 mrozów, miesięcy, dni tygodnia, pór dnia - czy nocy, nie ma
-                miejsca i domu ze ścianami i sufitem, nie ma świętości, świąt,
-                autorytetów, ani zasad, nie ma instytucji i urzędów, nie ma
-                rodziny i przyjaciół, nie ma snu i odpoczynku, nie ma pandemii.
+                miejsca i&nbsp;domu ze ścianami i&nbsp;sufitem, nie ma
+                świętości, świąt, autorytetów, ani zasad, nie ma instytucji
+                i&nbsp;urzędów, nie ma rodziny i&nbsp;przyjaciół, nie ma snu
+                i&nbsp;odpoczynku, nie ma pandemii.
               </p>
               <p className="about__text p__color">
-                Najbliżsi odchodzą niepostrzeżenie, w czasie moich ciągów
-                alkoholowych. Nie jestem z nimi w chwili śmierci, ani na ich
-                pogrzebach. Nie pracuję, ale zawsze mam “małpkę“ przy sobie lub
-                puszkę piwa. Nie mam żony ani dzieci, nie łożę na swoje
-                utrzymanie, nie płacę rachunków, mandatów, ani podatków, nie
-                obawiam się o swoją przyszłość.
+                Najbliżsi odchodzą niepostrzeżenie, w&nbsp;czasie moich ciągów
+                alkoholowych. Nie jestem z&nbsp;nimi w&nbsp;chwili śmierci, ani
+                na ich pogrzebach. Nie pracuję, ale zawsze mam “małpkę“ przy
+                sobie lub puszkę piwa. Nie mam żony ani dzieci, nie łożę na
+                swoje utrzymanie, nie płacę rachunków, mandatów, ani podatków,
+                nie obawiam się o&nbsp;swoją przyszłość.
               </p>
               <p className="about__text p__color">
                 Nie mam telefonu, telewizora, komputera, konta bankowego, nie
                 odbieram korespondencji, nikt nie może się ze mną skontaktować.
                 Nie obchodzi mnie polityka, ani żadne wydarzenia na świecie. Nie
-                jestem zarejestrowany w urzędzie pracy i nie jestem
+                jestem zarejestrowany w urzędzie pracy i&nbsp;nie jestem
                 ubezpieczony."
               </p>
               <p className="about__text p__color">
-                Załatwiam się w łóżko, jestem w IV (ostatniej) fazie chronicznej
-                choroby alkoholowej. Z czasem stałem się ekspertem od
-                alkoholizmu."
+                Załatwiam się w&nbsp;łóżko, jestem w&nbsp;IV (ostatniej) fazie
+                chronicznej choroby alkoholowej. Z&nbsp;czasem stałem się
+                ekspertem od&nbsp;alkoholizmu."
               </p>
               <div className="about__button d__flex align__items__center">
                 <button
