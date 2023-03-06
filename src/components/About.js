@@ -54,7 +54,7 @@ function About() {
                 odbieram korespondencji, nikt nie może się ze mną skontaktować.
                 Nie obchodzi mnie polityka, ani żadne wydarzenia na świecie. Nie
                 jestem zarejestrowany w urzędzie pracy i&nbsp;nie jestem
-                ubezpieczony."
+                ubezpieczony.
               </p>
               <p className="about__text p__color">
                 Załatwiam się w&nbsp;łóżko, jestem w&nbsp;IV (ostatniej) fazie
